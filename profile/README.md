@@ -16,7 +16,15 @@ The **Latin American Genomics Consortium (LAGC)** is an international research n
 
 Founded in **2019**, LAGC brings together investigators from Latin America and around the world to improve the representation of Latin American populations in genomic research and accelerate discoveries that lead to more equitable precision medicine. Today, the consortium includes **100+ active researchers** across Latin America, Puerto Rico, and the United States.
 
-**Website:** https://www.latinamericangenomicsconsortium.org
+---
+
+## 📫 Contact
+
+**Website**
+https://www.latinamericangenomicsconsortium.org
+
+**Email**
+latinamericangenomics@gmail.com
 
 ---
 
@@ -120,18 +128,6 @@ Whether you are an established investigator or an early-career researcher, there
 - Educational Material
 - Workshops
 - Community Events
-
----
-
-## 📫 Contact
-
-**Website**
-
-https://www.latinamericangenomicsconsortium.org
-
-**Email**
-
-latinamericangenomics@gmail.com
 
 ---
 
