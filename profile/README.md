@@ -14,7 +14,7 @@
 
 The **Latin American Genomics Consortium (LAGC)** is an international research network dedicated to advancing psychiatric genomics research in Latin American populations through collaboration, data sharing, education, and methodological innovation.
 
-Founded in **2019**, LAGC brings together investigators from Latin America and around the world to improve the representation of Latin American populations in genomic research and accelerate discoveries that lead to more equitable precision medicine. Today, the consortium includes **100+ active researchers** across Latin America, Puerto Rico, and the United States. :contentReference[oaicite:0]{index=0}
+Founded in **2019**, LAGC brings together investigators from Latin America and around the world to improve the representation of Latin American populations in genomic research and accelerate discoveries that lead to more equitable precision medicine. Today, the consortium includes **100+ active researchers** across Latin America, Puerto Rico, and the United States.
 
 **Website:** https://www.latinamericangenomicsconsortium.org
 
@@ -30,8 +30,6 @@ We aim to create a more inclusive future for psychiatric genomics by:
 - Supporting recruitment and genotyping initiatives
 - Promoting open science and reproducible research
 - Providing education and training opportunities for investigators across Latin America
-
-:contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -61,7 +59,7 @@ LAGC works closely with international initiatives including:
 - Research institutions in the United States and Europe
 - Clinical cohorts throughout Latin America
 
-Together, these collaborations help generate large-scale genomic resources while increasing diversity in psychiatric genetics research. :contentReference[oaicite:2]{index=2}
+Together, these collaborations help generate large-scale genomic resources while increasing diversity in psychiatric genetics research. 
 
 ---
 
