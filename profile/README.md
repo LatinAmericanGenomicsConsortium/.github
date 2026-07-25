@@ -124,7 +124,13 @@ Whether you are an established investigator or an early-career researcher, there
 
 - Consortium Website
 - Research Projects
-- Publications
+  
+  ## 📚 Publications
+
+[![PMC](https://img.shields.io/badge/PMC-Open_Access-blue)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12133068/)
+[![Nature Mental Health](https://img.shields.io/badge/Nature-Mental_Health-0f6ab4)](https://www.nature.com/articles/s44220-025-00572-7)
+[![AJMG Part B](https://img.shields.io/badge/AJMG-Part_B-green)](https://onlinelibrary.wiley.com/doi/10.1002/ajmg.b.33063)
+
 - Educational Material
 - Workshops
 - Community Events
