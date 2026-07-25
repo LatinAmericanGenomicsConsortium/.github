@@ -1,7 +1,7 @@
 # Latin American Genomics Consortium (LAGC)
 
 <p align="center">
-  <img src="images/lagc-log.png" width="250" alt="LAGC Logo">
+  <img src="images/lagc-logo.png" width="250" alt="LAGC Logo">
 </p>
 
 <p align="center">
