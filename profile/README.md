@@ -127,8 +127,11 @@ Whether you are an established investigator or an early-career researcher, there
   
   ## 📚 Publications
 
-[![PMC](https://img.shields.io/badge/PMC-Open_Access-blue)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12133068/)
+Bruxel, E.M., et al. Psychiatric genetics in the diverse landscape of Latin American populations. Nat Genet 57, 1074–1088 (2025). 
+[![Nature Genetics](https://img.shields.io/badge/Nature_Genetics-blue)](https://doi.org/10.1038/s41588-025-02127-z)
+da Silva, B.S., et al. Shaping the future of ADHD genetic research through ancestral diversity. Nat. Mental Health 4, 186–189 (2026).
 [![Nature Mental Health](https://img.shields.io/badge/Nature-Mental_Health-0f6ab4)](https://www.nature.com/articles/s44220-025-00572-7)
+Porras, L. M., et al. Functional Genomics Studies of Psychiatric Disorders in Individuals of Latin American Populations: A Scoping Review. Am. J. Med. Genet. B Neuropsychiatr. Genet., 201 (4), 227–245 (2026).
 [![AJMG Part B](https://img.shields.io/badge/AJMG-Part_B-green)](https://onlinelibrary.wiley.com/doi/10.1002/ajmg.b.33063)
 
 - Educational Material
