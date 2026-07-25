@@ -127,8 +127,6 @@ Whether you are an established investigator or an early-career researcher, there
   
   ## 📚 Publications
 
-## 📄 Featured Publications
-
 **Bruxel, E. M., et al.** *Psychiatric genetics in the diverse landscape of Latin American populations.* **Nature Genetics** 57, 1074–1088 (2025).  
 [![Nature Genetics](https://img.shields.io/badge/Nature-Genetics-blue)](https://doi.org/10.1038/s41588-025-02127-z)
 
