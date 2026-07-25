@@ -141,7 +141,7 @@ Cabrera-Mendoza B. et. al. The landscape of suicide risk factors in Latin Americ
 Cabrera-Mendoza B. et. al. Genomic Studies of Suicidal Thoughts and Behaviors in Latin American Populations: A Systematic Review. Biological Psychiatry (2025).
 [![Biological Psychiatry](https://img.shields.io/badge/Biological-Psychiatry-wine)](https://doi.org/10.1016/j.biopsych.2025.12.009)
 
-Bruxel, E. M., et al. Psychiatric genetics in the diverse landscape of Latin American populations. Nature Genetics 57, 1074–1088 (2025).  
+Bruxel, E. M., et al. **Psychiatric genetics in the diverse landscape of Latin American populations.** Nature Genetics 57, 1074–1088 (2025).  
 [![Nature Genetics](https://img.shields.io/badge/Nature-Genetics-blue)](https://doi.org/10.1038/s41588-025-02127-z)
 
 da Silva, B. S., et al. Shaping the future of ADHD genetic research through ancestral diversity. Nature Mental Health 4, 186–189 (2026).  
