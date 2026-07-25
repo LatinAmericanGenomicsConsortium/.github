@@ -124,6 +124,11 @@ Whether you are an established investigator or an early-career researcher, there
 
 - Consortium Website
 - Research Projects
+- Educational Material
+- Workshops
+- Community Events
+
+---
   
   ## 📚 Publications
 
@@ -135,10 +140,6 @@ Whether you are an established investigator or an early-career researcher, there
 
 **Porras, L. M., et al.** *Functional Genomics Studies of Psychiatric Disorders in Individuals of Latin American Populations: A Scoping Review.* **American Journal of Medical Genetics Part B: Neuropsychiatric Genetics** 201(4), 227–245 (2026).  
 [![AJMG Part B](https://img.shields.io/badge/AJMG_Part_B-green)](https://onlinelibrary.wiley.com/doi/10.1002/ajmg.b.33063)
-
-- Educational Material
-- Workshops
-- Community Events
 
 ---
 
