@@ -130,7 +130,7 @@ Whether you are an established investigator or an early-career researcher, there
 ## 📄 Featured Publications
 
 **Bruxel, E. M., et al.** *Psychiatric genetics in the diverse landscape of Latin American populations.* **Nature Genetics** 57, 1074–1088 (2025).  
-[![Nature Genetics](https://img.shields.io/badge/Nature_Genetics-blue)](https://doi.org/10.1038/s41588-025-02127-z)
+[![Nature Genetics](https://img.shields.io/badge/Nature-Genetics-blue)](https://doi.org/10.1038/s41588-025-02127-z)
 
 **da Silva, B. S., et al.** *Shaping the future of ADHD genetic research through ancestral diversity.* **Nature Mental Health** 4, 186–189 (2026).  
 [![Nature Mental Health](https://img.shields.io/badge/Nature-Mental_Health-0f6ab4)](https://www.nature.com/articles/s44220-025-00572-7)
