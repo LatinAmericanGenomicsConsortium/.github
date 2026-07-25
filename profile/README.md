@@ -132,16 +132,19 @@ Whether you are an established investigator or an early-career researcher, there
   
   ## 📚 Publications
 
-**Murgueito J. et. al.** La importancia de incluir personas de ascendencia latinoamericana en estudios genéticos de trastornos de la ingesta y de la conducta alimentaria. Revista Puertorriqueña De Psicologia 2023, 34(2), 262-283.
+Murgueito J. et. al. La importancia de incluir personas de ascendencia latinoamericana en estudios genéticos de trastornos de la ingesta y de la conducta alimentaria. Revista Puertorriqueña De Psicologia 34(2), 262-283 (2023).
 [![Revista Puertorriqueña De Psicologia](https://img.shields.io/badge/Revista-Puertorriqueña_De_Psicologia-cobalt)](https://doi.org/10.55611/reps.3402.10)
 
-**Bruxel, E. M., et al.** *Psychiatric genetics in the diverse landscape of Latin American populations.* **Nature Genetics** 57, 1074–1088 (2025).  
+Cabrera-Mendoza B. et. al. The landscape of suicide risk factors in Latin America. Psychiatry Research 351, 116597 (2025).
+[![Psychiatry Research](https://img.shields.io/badge/Psychiatry-Research-wine)](https://doi.org/10.1016/j.psychres.2025.116597)
+
+Bruxel, E. M., et al. *Psychiatric genetics in the diverse landscape of Latin American populations. Nature Genetics 57, 1074–1088 (2025).  
 [![Nature Genetics](https://img.shields.io/badge/Nature-Genetics-blue)](https://doi.org/10.1038/s41588-025-02127-z)
 
-**da Silva, B. S., et al.** *Shaping the future of ADHD genetic research through ancestral diversity.* **Nature Mental Health** 4, 186–189 (2026).  
+da Silva, B. S., et al. *Shaping the future of ADHD genetic research through ancestral diversity.* Nature Mental Health 4, 186–189 (2026).  
 [![Nature Mental Health](https://img.shields.io/badge/Nature-Mental_Health-0f6ab4)](https://www.nature.com/articles/s44220-025-00572-7)
 
-**Porras, L. M., et al.** *Functional Genomics Studies of Psychiatric Disorders in Individuals of Latin American Populations: A Scoping Review.* **American Journal of Medical Genetics Part B: Neuropsychiatric Genetics** 201(4), 227–245 (2026).  
+Porras, L. M., et al. *Functional Genomics Studies of Psychiatric Disorders in Individuals of Latin American Populations: A Scoping Review. American Journal of Medical Genetics Part B: Neuropsychiatric Genetics 201(4), 227–245 (2026).  
 [![AJMG Part B](https://img.shields.io/badge/AJMG_Part_B-green)](https://onlinelibrary.wiley.com/doi/10.1002/ajmg.b.33063)
 
 ---
