@@ -132,7 +132,7 @@ Whether you are an established investigator or an early-career researcher, there
   
   ## 📚 Publications
 
-**Murgueito J. et. al.** La importancia de incluir personas de ascendencia latinoamericana en estudios genéticos de trastornos de la ingesta y de la conducta alimentaria. Revista Puertorriqueña De Psicologia 2023, 34(2), 262-283. 
+**Murgueito J. et. al.** La importancia de incluir personas de ascendencia latinoamericana en estudios genéticos de trastornos de la ingesta y de la conducta alimentaria. Revista Puertorriqueña De Psicologia 2023, 34(2), 262-283.
 [![Revista Puertorriqueña De Psicologia](https://img.shields.io/badge/Revista-Puertorriqueña_De_Psicologia-cobalt)](https://doi.org/10.55611/reps.3402.10)
 
 **Bruxel, E. M., et al.** *Psychiatric genetics in the diverse landscape of Latin American populations.* **Nature Genetics** 57, 1074–1088 (2025).  
